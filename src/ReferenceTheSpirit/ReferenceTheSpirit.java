@@ -1,8 +1,7 @@
 /**
  * ReferenceTheSpirit.java -- Scriptural referencing application from different 
  * sources.
- * CSIS 505 - B01
- * @author Kore Woody
+ * @author NoFac3
  */
 package ReferenceTheSpirit;
 
