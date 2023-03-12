@@ -5,20 +5,20 @@ Scriptural referencing application from the Bible, Apocrypha, Rig-Veda, and Qur'
 # Application: Reference the Spirit
 This project is primarily a Bible reading and referencing application. It displays Bible text based on user input for translation, book, chapter, and verse. 
 The translations included:
-	- American King James Version (AKJV)
-	- American Standard Version (ASV)
-	- Berean Study Bible (BSB)
-	- Catholic Public Domain Version (CPDV)
-	- Darby Bible Translation (DBT)
-	- Douay-Rheims Bible (DRB)
-	- English Revised Version (ERV)
-	- JPS Tanakh OT/ Weymouth NT (JPS/WEY)
-	- King James Version (KJV)
-	New Heart English Bible (NHEB)
-	Smith's Literal Translation (SLT)
-	Webster Bible Translation (WEB)
-	World English Bible (WEB)
-	Young's Literal Translation (YLT). 
+- American King James Version (AKJV)
+- American Standard Version (ASV)
+- Berean Study Bible (BSB)
+- Catholic Public Domain Version (CPDV)
+- Darby Bible Translation (DBT)
+- Douay-Rheims Bible (DRB)
+- English Revised Version (ERV)
+- JPS Tanakh OT/ Weymouth NT (JPS/WEY)
+- King James Version (KJV)
+- New Heart English Bible (NHEB)
+- Smith's Literal Translation (SLT)
+- Webster Bible Translation (WEB)
+- World English Bible (WEB)
+- Young's Literal Translation (YLT). 
 The application will also include other religious texts including the Books of the Apocrypha in KJV and other text from different religions including the Rig-Veda from Hinduism and the Qur'an from Islam.
 
 <img src="/images/ScreenShots/rigveda.png" alt="Alt text" title="Hinduism: Rig-Veda">
