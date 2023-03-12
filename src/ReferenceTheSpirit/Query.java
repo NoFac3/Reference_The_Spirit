@@ -1,7 +1,6 @@
 /**
  * Query.java - class for executing queries on the database for verse 
- * CSIS 505 - B01
- * @author Kore Woody
+ * @author NoFac3
  */
 package ReferenceTheSpirit;
 
