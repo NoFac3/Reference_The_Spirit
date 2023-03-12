@@ -1,8 +1,7 @@
 /**
  * Index.java - class used to set and get the list values for Sources, texts, 
  * translations, books, chapters, and verses from the database
- * CSIS 505 - B01
- * @author Kore Woody
+ * @author NoFac3
  */
 package ReferenceTheSpirit;
 
