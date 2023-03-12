@@ -20,7 +20,7 @@ The translations included:
 - World English Bible (WEB)
 - Young's Literal Translation (YLT). 
 
-The application will also include other religious texts including the Books of the Apocrypha in KJV and other text from different religions including the Rig-Veda from Hinduism and the Qur'an from Islam.
+The application will also include other religious texts including the books of the Apocrypha in KJV and other text from different religions including the Rig-Veda from Hinduism and the Qur'an from Islam.
 
 <img src="/images/ScreenShots/rigveda.png" alt="Alt text" title="Hinduism: Rig-Veda">
 <img src="/images/ScreenShots/quran.png" alt="Alt text" title="Qur'an">
