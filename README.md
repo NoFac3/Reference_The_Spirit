@@ -39,6 +39,7 @@ The application includes a search bar for querying verses within the selected te
 
 # GUI Options
 The user interface includes two additional options. The first is the ability to adjust the size of the displayed text. However there is a maximum and minimum limit to the size of the text font. The second option a button that allows the user to change the colors of the application from dark to light mode.
+
 <img src="/images/ScreenShots/lightMode.png" alt="Alt text" title="Light">
 <img src="/images/ScreenShots/darkMode.png" alt="Alt text" title="Dark">
 	
@@ -46,5 +47,6 @@ The user interface includes two additional options. The first is the ability to 
 <img src="/images/GetChapterTextandCitation.jpg" alt="Alt text" title="Get Chapter Text and Citation Methods">
 <img src="/images/GetIndex.jpg" alt="Alt text" title="Get Index Method">
 <img src="/images/GetThemeandKeyword.jpg" alt="Alt text" title="Get Theme and Keyword Methods">
+
 # Class Diagram
 <img src="/images/ClassDiagram.jpg" alt="Alt text" title="Class Diagram">
