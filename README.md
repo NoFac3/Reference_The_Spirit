@@ -37,7 +37,7 @@ The application includes a search bar for querying verses within the selected te
 <img src="/images/ScreenShots/theme1.png" alt="Alt text" title="Theme Search">
 
 # GUI Options
-	The user interface includes two additional options. The first is the ability to adjust the size of the displayed text. However there is a maximum and minimum limit to the size of the text font. The second option a button that allows the user to change the colors of the application from dark to light mode.
+The user interface includes two additional options. The first is the ability to adjust the size of the displayed text. However there is a maximum and minimum limit to the size of the text font. The second option a button that allows the user to change the colors of the application from dark to light mode.
 <img src="/images/ScreenShots/lightMode.png" alt="Alt text" title="Light">
 <img src="/images/ScreenShots/darkMode.png" alt="Alt text" title="Dark">
 	
