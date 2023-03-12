@@ -1,8 +1,7 @@
 /**
  * Keyword.java - class searches database for verses containing the given
  * keyword.
- * CSIS 505 - B01
- * @author Kore Woody
+ * @author NoFac3
  */
 package ReferenceTheSpirit;
 
