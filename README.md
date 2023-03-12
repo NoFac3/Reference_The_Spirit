@@ -20,8 +20,6 @@ The translations included:
 	Young's Literal Translation (YLT). 
 The application will also include other religious texts including the Books of the Apocrypha in KJV and other text from different religions including the Rig-Veda from Hinduism and the Qur'an from Islam. 
 
-![My Image](../images/ScreenShots/rigveda.png)
-![My Image](../images/ScreenShots/quran.png)
 <img src="/images/ScreenShots/rigveda.png" alt="Alt text" title="Hinduism: Rig-Veda">
 <img src="/images/ScreenShots/quran.png" alt="Alt text" title="Qur'an">
 
