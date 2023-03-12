@@ -1,8 +1,7 @@
 /**
  * Theme.java - class queries themes database for a given theme's corresponding
  * verses
- * CSIS 505 - B01
- * @author Kore Woody
+ * @author NoFac3
  */
 package ReferenceTheSpirit;
 
