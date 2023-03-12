@@ -20,8 +20,10 @@ The translations included:
 	Young's Literal Translation (YLT). 
 The application will also include other religious texts including the Books of the Apocrypha in KJV and other text from different religions including the Rig-Veda from Hinduism and the Qur'an from Islam. 
 
-<img src="/images/ScreenShots/rigveda.jpg" alt="Alt text" title="Hinduism: Rig-Veda">
-<img src="/images/ScreenShots/quran.jpg" alt="Alt text" title="Qur'an">
+![My Image](../images/ScreenShots/rigveda.png)
+![My Image](../images/ScreenShots/quran.png)
+<img src="/images/ScreenShots/rigveda.png" alt="Alt text" title="Hinduism: Rig-Veda">
+<img src="/images/ScreenShots/quran.png" alt="Alt text" title="Qur'an">
 
 By having access to different religious texts, the application will provide universal utility and applicability instead of having to access multiple sources for different text. It is important to contemplate and understand the possible criticisms that others may have against any conviction or argument, and the ability to comprehend the associated justifications for said objections will support one's conviction and further aid in healthy discourse by providing credence to the assertion and demonstrate an individual's diligence in researching and constructing an argument for or against a belief or ideology. 
 # Citation, Search
