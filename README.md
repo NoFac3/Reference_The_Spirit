@@ -19,6 +19,10 @@ The translations included:
 	World English Bible (WEB)
 	Young's Literal Translation (YLT). 
 The application will also include other religious texts including the Books of the Apocrypha in KJV and other text from different religions including the Rig-Veda from Hinduism and the Qur'an from Islam. 
+
+<img src="/images/ScreenShots/rigveda.jpg" alt="Alt text" title="Hinduism: Rig-Veda">
+<img src="/images/ScreenShots/quran.jpg" alt="Alt text" title="Qur'an">
+
 By having access to different religious texts, the application will provide universal utility and applicability instead of having to access multiple sources for different text. It is important to contemplate and understand the possible criticisms that others may have against any conviction or argument, and the ability to comprehend the associated justifications for said objections will support one's conviction and further aid in healthy discourse by providing credence to the assertion and demonstrate an individual's diligence in researching and constructing an argument for or against a belief or ideology. 
 # Citation, Search
 From the displayed chapter, the user can generate the desired verses with an in-text citation that is formatted to the user's choice of citation format. The citation formats available are APA, MLA, and Turabian. The application will include a search bar for querying verses within the selected text that the contain the queried keyword(s). Additionally, there is a Biblical theme search option that returns corresponding verses what correlate to the theme. If either search values for keyword or search value are not found in the Bible or in the theme database, the application will display an error message notifying the user that the word, phrase, or theme was not found. From the list of theme and keyword verses, the user can select a verse and open it in the main text area to view the chapter text. 
