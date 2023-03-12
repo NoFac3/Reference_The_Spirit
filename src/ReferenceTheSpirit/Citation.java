@@ -1,7 +1,6 @@
 /**
  * Citation.java - creates and returns verses in selected citation format
- * CSIS 505 - B01
- * @author Kore Woody
+ * @author NoFac3
  */
 package ReferenceTheSpirit;
 
