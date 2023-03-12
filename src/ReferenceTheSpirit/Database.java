@@ -1,7 +1,6 @@
 /**
  * Database.java -- class for connecting to the database
- * CSIS 505 - B01
- * @author Kore Woody
+ * @author NoFac3
  */
 package ReferenceTheSpirit;
 
